@@ -1,1 +1,1 @@
-# human_segmentation
+# Tool for visualization of semantic segmentation masks with class names
