@@ -4,5 +4,4 @@ Pillow
 opencv-python
 pycocotools
 scipy
-tqdm
 torch
