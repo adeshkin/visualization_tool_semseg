@@ -1,5 +1,8 @@
 # Tool for visualization of semantic segmentation masks with class names
 
+Inspired by Detectron2:
+https://github.com/facebookresearch/detectron2/blob/bab413cdb822af6214f9b7f70a9b7a9505eb86c5/demo/demo.py
+
 ## Script usage:
 ```
 python run_visualization.py
